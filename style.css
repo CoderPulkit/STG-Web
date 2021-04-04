@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding-top: 800px;
+    background: linear-gradient(#001347 0%, #00ebf3 100%);
+    
+}
+marquee{
+    font-size: 30px;
+}
+
+
+ul {
+    position: sticky;
+}
